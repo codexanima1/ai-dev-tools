@@ -29,6 +29,13 @@ Muestra:
 - Lenguajes más usados
 - Repositorios destacados
 
+### threads_to_github.py
+Conecta tus posts con commits. Genera actividad automática en GitHub.
+
+```python
+python threads_to_github.py
+```
+
 ---
 
 ## Uso
